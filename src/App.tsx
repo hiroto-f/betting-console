@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import EventListPage from './pages/EventListPage';
 import EventDetailPage from './pages/EventDetailPage';
 import EventOptionAddPage from './pages/EventOptionAddPage';
-import EventAddPage from './pages/EventAddPage'; // ← 追加
+import EventAddPage from './pages/EventAddPage';
 
 export default function App() {
   return (
